@@ -4,7 +4,7 @@ const { v4: uuidv4 } = require('uuid');
 const app = express();
 const port = process.env.PORT || 3000;
 
-const SECRET = "MY_TEST_SECRET";
+const SECRET = "vviitm25007gravity";
 
 app.use(express.json());
 
