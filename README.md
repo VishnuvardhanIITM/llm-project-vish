@@ -1,4 +1,4 @@
-# LLM Code Deployment API
+# LLM Project
 
 This project is a minimal Node.js API built with Express that serves as an endpoint for the LLM Code Deployment project. It receives task details, validates a secret key, and returns a JSON response with deployment information.
 
